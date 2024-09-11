@@ -1,0 +1,36 @@
+Time resolution is 1 ps
+Time: 0 | PCResult: 00000000 | Instruction: 00000000
+Time: 15000 | PCResult: 00000004 | Instruction: 00000003
+Time: 25000 | PCResult: 00000008 | Instruction: 00000006
+Time: 35000 | PCResult: 0000000c | Instruction: 00000009
+Time: 45000 | PCResult: 00000010 | Instruction: 0000000c
+Time: 55000 | PCResult: 00000014 | Instruction: 0000000f
+Time: 65000 | PCResult: 00000018 | Instruction: 00000012
+Time: 75000 | PCResult: 0000001c | Instruction: 00000015
+Time: 85000 | PCResult: 00000020 | Instruction: 00000018
+Time: 95000 | PCResult: 00000024 | Instruction: 0000001b
+Time: 105000 | PCResult: 00000028 | Instruction: 0000001e
+Time: 115000 | PCResult: 0000002c | Instruction: 00000021
+Time: 125000 | PCResult: 00000030 | Instruction: 00000024
+Time: 135000 | PCResult: 00000034 | Instruction: 00000027
+Time: 145000 | PCResult: 00000038 | Instruction: 0000002a
+Time: 155000 | PCResult: 0000003c | Instruction: 0000002d
+Time: 165000 | PCResult: 00000040 | Instruction: 00000030
+Time: 175000 | PCResult: 00000044 | Instruction: 00000033
+Time: 185000 | PCResult: 00000048 | Instruction: 00000036
+Time: 195000 | PCResult: 0000004c | Instruction: 00000039
+Time: 205000 | PCResult: 00000050 | Instruction: 0000003c
+Time: 215000 | PCResult: 00000054 | Instruction: 0000003f
+Time: 225000 | PCResult: 00000058 | Instruction: 00000042
+Time: 235000 | PCResult: 0000005c | Instruction: 00000045
+Time: 245000 | PCResult: 00000060 | Instruction: 00000048
+Time: 255000 | PCResult: 00000064 | Instruction: 0000004b
+Time: 265000 | PCResult: 00000068 | Instruction: 0000004e
+Time: 275000 | PCResult: 0000006c | Instruction: 00000051
+Time: 285000 | PCResult: 00000070 | Instruction: 00000054
+Time: 295000 | PCResult: 00000074 | Instruction: 00000057
+Time: 305000 | PCResult: 00000078 | Instruction: 0000005a
+Time: 315000 | PCResult: 0000007c | Instruction: 0000005d
+Time: 325000 | PCResult: 00000080 | Instruction: 00000060
+Time: 335000 | PCResult: 00000084 | Instruction: 00000063
+$finish called at time : 343 ns : File "C:/Users/Koby Butler/Desktop/ECE369Lab1/1-InstructionFetchUnit/InstructionFetchUnit_tb.v" Line 44
