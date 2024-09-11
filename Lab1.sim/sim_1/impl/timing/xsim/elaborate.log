@@ -1,0 +1,148 @@
+Vivado Simulator v2024.1
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2024.1/bin/unwrapped/win64.o/xelab.exe --incr --debug typical --relax --mt 2 --maxdelay -L xil_defaultlib -L simprims_ver -L secureip --snapshot InstructionFetchUnit_tb_time_impl -transport_int_delays -pulse_r 0 -pulse_int_r 0 -pulse_e 0 -pulse_int_e 0 xil_defaultlib.InstructionFetchUnit_tb xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+INFO: [XSIM 43-3451] SDF backannotation process started with SDF file "InstructionFetchUnit_tb_time_impl.sdf", for root module "InstructionFetchUnit_tb/uut".
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /InstructionFetchUnit_tb/uut/Instruction_OBUF[0]_inst in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /InstructionFetchUnit_tb/uut/Instruction_OBUF[10]_inst in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /InstructionFetchUnit_tb/uut/Instruction_OBUF[11]_inst in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /InstructionFetchUnit_tb/uut/Instruction_OBUF[12]_inst in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /InstructionFetchUnit_tb/uut/Instruction_OBUF[13]_inst in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /InstructionFetchUnit_tb/uut/Instruction_OBUF[14]_inst in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /InstructionFetchUnit_tb/uut/Instruction_OBUF[15]_inst in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /InstructionFetchUnit_tb/uut/Instruction_OBUF[16]_inst in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /InstructionFetchUnit_tb/uut/Instruction_OBUF[17]_inst in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /InstructionFetchUnit_tb/uut/Instruction_OBUF[18]_inst in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /InstructionFetchUnit_tb/uut/Instruction_OBUF[19]_inst in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /InstructionFetchUnit_tb/uut/Instruction_OBUF[1]_inst in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /InstructionFetchUnit_tb/uut/Instruction_OBUF[20]_inst in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /InstructionFetchUnit_tb/uut/Instruction_OBUF[21]_inst in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /InstructionFetchUnit_tb/uut/Instruction_OBUF[22]_inst in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /InstructionFetchUnit_tb/uut/Instruction_OBUF[23]_inst in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /InstructionFetchUnit_tb/uut/Instruction_OBUF[24]_inst in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /InstructionFetchUnit_tb/uut/Instruction_OBUF[25]_inst in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /InstructionFetchUnit_tb/uut/Instruction_OBUF[26]_inst in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /InstructionFetchUnit_tb/uut/Instruction_OBUF[27]_inst in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /InstructionFetchUnit_tb/uut/Instruction_OBUF[28]_inst in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /InstructionFetchUnit_tb/uut/Instruction_OBUF[29]_inst in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /InstructionFetchUnit_tb/uut/Instruction_OBUF[2]_inst in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /InstructionFetchUnit_tb/uut/Instruction_OBUF[30]_inst in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /InstructionFetchUnit_tb/uut/Instruction_OBUF[31]_inst in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /InstructionFetchUnit_tb/uut/Instruction_OBUF[3]_inst in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /InstructionFetchUnit_tb/uut/Instruction_OBUF[4]_inst in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /InstructionFetchUnit_tb/uut/Instruction_OBUF[5]_inst in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /InstructionFetchUnit_tb/uut/Instruction_OBUF[6]_inst in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /InstructionFetchUnit_tb/uut/Instruction_OBUF[7]_inst in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /InstructionFetchUnit_tb/uut/Instruction_OBUF[8]_inst in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /InstructionFetchUnit_tb/uut/Instruction_OBUF[9]_inst in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /InstructionFetchUnit_tb/uut/PCResult_OBUF[0]_inst in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /InstructionFetchUnit_tb/uut/PCResult_OBUF[10]_inst in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /InstructionFetchUnit_tb/uut/PCResult_OBUF[11]_inst in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /InstructionFetchUnit_tb/uut/PCResult_OBUF[12]_inst in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /InstructionFetchUnit_tb/uut/PCResult_OBUF[13]_inst in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /InstructionFetchUnit_tb/uut/PCResult_OBUF[14]_inst in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /InstructionFetchUnit_tb/uut/PCResult_OBUF[15]_inst in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /InstructionFetchUnit_tb/uut/PCResult_OBUF[16]_inst in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /InstructionFetchUnit_tb/uut/PCResult_OBUF[17]_inst in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /InstructionFetchUnit_tb/uut/PCResult_OBUF[18]_inst in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /InstructionFetchUnit_tb/uut/PCResult_OBUF[19]_inst in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /InstructionFetchUnit_tb/uut/PCResult_OBUF[1]_inst in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /InstructionFetchUnit_tb/uut/PCResult_OBUF[20]_inst in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /InstructionFetchUnit_tb/uut/PCResult_OBUF[21]_inst in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /InstructionFetchUnit_tb/uut/PCResult_OBUF[22]_inst in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /InstructionFetchUnit_tb/uut/PCResult_OBUF[23]_inst in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /InstructionFetchUnit_tb/uut/PCResult_OBUF[24]_inst in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /InstructionFetchUnit_tb/uut/PCResult_OBUF[25]_inst in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /InstructionFetchUnit_tb/uut/PCResult_OBUF[26]_inst in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /InstructionFetchUnit_tb/uut/PCResult_OBUF[27]_inst in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /InstructionFetchUnit_tb/uut/PCResult_OBUF[28]_inst in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /InstructionFetchUnit_tb/uut/PCResult_OBUF[29]_inst in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /InstructionFetchUnit_tb/uut/PCResult_OBUF[2]_inst in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /InstructionFetchUnit_tb/uut/PCResult_OBUF[30]_inst in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /InstructionFetchUnit_tb/uut/PCResult_OBUF[31]_inst in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /InstructionFetchUnit_tb/uut/PCResult_OBUF[3]_inst in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /InstructionFetchUnit_tb/uut/PCResult_OBUF[4]_inst in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /InstructionFetchUnit_tb/uut/PCResult_OBUF[5]_inst in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /InstructionFetchUnit_tb/uut/PCResult_OBUF[6]_inst in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /InstructionFetchUnit_tb/uut/PCResult_OBUF[7]_inst in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /InstructionFetchUnit_tb/uut/PCResult_OBUF[8]_inst in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /InstructionFetchUnit_tb/uut/PCResult_OBUF[9]_inst in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /InstructionFetchUnit_tb/uut/pc/Instruction_OBUF[1]_inst_i_1 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /InstructionFetchUnit_tb/uut/pc/Instruction_OBUF[2]_inst_i_1 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /InstructionFetchUnit_tb/uut/pc/Instruction_OBUF[3]_inst_i_1 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /InstructionFetchUnit_tb/uut/pc/Instruction_OBUF[4]_inst_i_1 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /InstructionFetchUnit_tb/uut/pc/Instruction_OBUF[5]_inst_i_1 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /InstructionFetchUnit_tb/uut/pc/Instruction_OBUF[6]_inst_i_1 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /InstructionFetchUnit_tb/uut/pc/Instruction_OBUF[6]_inst_i_2 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /InstructionFetchUnit_tb/uut/pc/Instruction_OBUF[6]_inst_i_3 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /InstructionFetchUnit_tb/uut/pc/Instruction_OBUF[7]_inst_i_1 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /InstructionFetchUnit_tb/uut/pc/Instruction_OBUF[7]_inst_i_2 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /InstructionFetchUnit_tb/uut/pc/Instruction_OBUF[7]_inst_i_3 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /InstructionFetchUnit_tb/uut/pc/Instruction_OBUF[8]_inst_i_1 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /InstructionFetchUnit_tb/uut/pc/PCResult[2]_i_2 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /InstructionFetchUnit_tb/uut/pc/PCResult_reg[10] in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /InstructionFetchUnit_tb/uut/pc/PCResult_reg[10]_i_1 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /InstructionFetchUnit_tb/uut/pc/PCResult_reg[11] in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /InstructionFetchUnit_tb/uut/pc/PCResult_reg[12] in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /InstructionFetchUnit_tb/uut/pc/PCResult_reg[13] in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /InstructionFetchUnit_tb/uut/pc/PCResult_reg[14] in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /InstructionFetchUnit_tb/uut/pc/PCResult_reg[14]_i_1 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /InstructionFetchUnit_tb/uut/pc/PCResult_reg[15] in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /InstructionFetchUnit_tb/uut/pc/PCResult_reg[16] in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /InstructionFetchUnit_tb/uut/pc/PCResult_reg[17] in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /InstructionFetchUnit_tb/uut/pc/PCResult_reg[18] in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /InstructionFetchUnit_tb/uut/pc/PCResult_reg[18]_i_1 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /InstructionFetchUnit_tb/uut/pc/PCResult_reg[19] in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /InstructionFetchUnit_tb/uut/pc/PCResult_reg[20] in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /InstructionFetchUnit_tb/uut/pc/PCResult_reg[21] in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /InstructionFetchUnit_tb/uut/pc/PCResult_reg[22] in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /InstructionFetchUnit_tb/uut/pc/PCResult_reg[22]_i_1 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /InstructionFetchUnit_tb/uut/pc/PCResult_reg[23] in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /InstructionFetchUnit_tb/uut/pc/PCResult_reg[24] in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /InstructionFetchUnit_tb/uut/pc/PCResult_reg[25] in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /InstructionFetchUnit_tb/uut/pc/PCResult_reg[26] in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /InstructionFetchUnit_tb/uut/pc/PCResult_reg[26]_i_1 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /InstructionFetchUnit_tb/uut/pc/PCResult_reg[27] in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /InstructionFetchUnit_tb/uut/pc/PCResult_reg[28] in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /InstructionFetchUnit_tb/uut/pc/PCResult_reg[29] in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /InstructionFetchUnit_tb/uut/pc/PCResult_reg[2] in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /InstructionFetchUnit_tb/uut/pc/PCResult_reg[2]_i_1 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /InstructionFetchUnit_tb/uut/pc/PCResult_reg[30] in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /InstructionFetchUnit_tb/uut/pc/PCResult_reg[30]_i_1 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /InstructionFetchUnit_tb/uut/pc/PCResult_reg[31] in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /InstructionFetchUnit_tb/uut/pc/PCResult_reg[3] in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /InstructionFetchUnit_tb/uut/pc/PCResult_reg[4] in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /InstructionFetchUnit_tb/uut/pc/PCResult_reg[5] in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /InstructionFetchUnit_tb/uut/pc/PCResult_reg[6] in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /InstructionFetchUnit_tb/uut/pc/PCResult_reg[6]_i_1 in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /InstructionFetchUnit_tb/uut/pc/PCResult_reg[7] in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /InstructionFetchUnit_tb/uut/pc/PCResult_reg[8] in the HDL hierarchy, annotation will be skipped.
+WARNING: [XSIM 43-3477] Unable to find hierarchical path /InstructionFetchUnit_tb/uut/pc/PCResult_reg[9] in the HDL hierarchy, annotation will be skipped.
+INFO: [XSIM 43-3452] SDF backannotation was successful for SDF file "InstructionFetchUnit_tb_time_impl.sdf", for root module "InstructionFetchUnit_tb/uut".
+Time Resolution for simulation is 1ps
+Compiling module simprims_ver.BUFG
+Compiling module simprims_ver.IBUF
+Compiling module simprims_ver.OBUF
+Compiling module simprims_ver.x_lut2_mux4
+Compiling module simprims_ver.LUT2(INIT=4'b0110)
+Compiling module simprims_ver.x_lut3_mux8
+Compiling module simprims_ver.LUT3(INIT=8'b10011010)
+Compiling module simprims_ver.LUT4(INIT=16'b1001011010100110)
+Compiling module simprims_ver.LUT5
+Compiling module simprims_ver.LUT6
+Compiling module simprims_ver.MUXF7
+Compiling module simprims_ver.x_lut1_mux2
+Compiling module simprims_ver.LUT1(INIT=2'b01)
+Compiling module simprims_ver.FDCE_default
+Compiling module simprims_ver.CARRY4
+Compiling module xil_defaultlib.ProgramCounter
+Compiling module xil_defaultlib.InstructionFetchUnit
+Compiling module xil_defaultlib.InstructionFetchUnit_tb
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot InstructionFetchUnit_tb_time_impl

@@ -1,0 +1,10 @@
+0.7
+2020.2
+May 22 2024
+19:03:11
+C:/Users/Koby Butler/Desktop/ECE369Lab1/1-InstructionFetchUnit/InstructionFetchUnit.v,1726015704,verilog,,C:/Users/Koby Butler/Desktop/ECE369Lab1/1-InstructionFetchUnit/InstructionMemory.v,,InstructionFetchUnit,,,,,,,,
+C:/Users/Koby Butler/Desktop/ECE369Lab1/1-InstructionFetchUnit/InstructionFetchUnit_tb.v,1726015112,verilog,,,,InstructionFetchUnit_tb,,,,,,,,
+C:/Users/Koby Butler/Desktop/ECE369Lab1/1-InstructionFetchUnit/InstructionMemory.v,1725949056,verilog,,C:/Users/Koby Butler/Desktop/ECE369Lab1/1-InstructionFetchUnit/PCAdder.v,,InstructionMemory,,,,,,,,
+C:/Users/Koby Butler/Desktop/ECE369Lab1/1-InstructionFetchUnit/PCAdder.v,1725948188,verilog,,C:/Users/Koby Butler/Desktop/ECE369Lab1/1-InstructionFetchUnit/ProgramCounter.v,,PCAdder,,,,,,,,
+C:/Users/Koby Butler/Desktop/ECE369Lab1/1-InstructionFetchUnit/ProgramCounter.v,1725948194,verilog,,C:/Users/Koby Butler/Desktop/ECE369Lab1/1-InstructionFetchUnit/InstructionFetchUnit_tb.v,,ProgramCounter,,,,,,,,
+C:/Users/Koby Butler/Desktop/VivadoLab1/Lab1.sim/sim_1/behav/xsim/glbl.v,1708598507,verilog,,,,glbl,,,,,,,,
